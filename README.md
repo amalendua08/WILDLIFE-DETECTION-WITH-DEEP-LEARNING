@@ -1,1 +1,1 @@
-# WILDLIFE-DETECTION-WITH-DEEP-LEARNING
+# Wildlife-Detection-with-Deep-Learning
